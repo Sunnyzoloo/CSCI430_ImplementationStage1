@@ -1,2 +1,2 @@
-# CSCI430_ImplementationStage1
+# Warehouse Project
 Implementing Client and ClientList classes. 
