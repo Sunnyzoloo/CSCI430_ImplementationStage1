@@ -1,0 +1,26 @@
+Script started on 2025-09-30 03:16:07+00:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="160" LINES="19"]
+[?2004h[0;32m@Sunnyzoloo [0m➜ [1;34m/workspaces/CSCI430_ImplementationStage1/WarehouseProject [0;36m([1;31mmain[0;36m) [0m$ exit[1Pndjava ClientTestc Client.java ClientList.java Product.java ClientTest.java
+[?2004l[?2004h[0;32m@Sunnyzoloo [0m➜ [1;34m/workspaces/CSCI430_ImplementationStage1/WarehouseProject [0;36m([1;31mmain[0;36m) [0m$ javac Client.java ClientList.java Product.java ClientTest.javaexit[K[1Pndjava ClientTest
+[?2004lEnter Client ID (or type 'exit' to finish): 1010
+Enter Client Name: Sarah Johnson
+Client created: Client{id='1010', name='Sarah Johnson'}
+Enter Client ID (or type 'exit' to finish): 1011
+Enter Client Name: Aidan Adams
+Client created: Client{id='1011', name='Aidan Adams'}
+Enter Client ID (or type 'exit' to finish): 1012
+Enter Client Name: Bray  yan Erickson
+Client created: Client{id='1012', name='Bryan Erickson'}
+Enter Client ID (or type 'exit' to finish): 1013 Sunn     
+Enter Client Name: Sunny ENkhbayar
+Client created: Client{id='1013', name='Sunny ENkhbayar'}
+Enter Client ID (or type 'exit' to finish): 1010
+Enter Client Name: Jiali   ali Zhao
+Client with ID 1010 already exists!
+Enter Client ID (or type 'exit' to finish): exit
+
+All Clients:
+[Client{id='1010', name='Sarah Johnson'}, Client{id='1011', name='Aidan Adams'}, Client{id='1012', name='Bryan Erickson'}, Client{id='1013', name='Sunny ENkhbayar'}]
+[?2004h[0;32m@Sunnyzoloo [0m➜ [1;34m/workspaces/CSCI430_ImplementationStage1/WarehouseProject [0;36m([1;31mmain[0;36m) [0m$ exit
+[?2004lexit
+
+Script done on 2025-09-30 03:17:26+00:00 [COMMAND_EXIT_CODE="0"]
